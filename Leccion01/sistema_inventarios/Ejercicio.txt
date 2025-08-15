@@ -1,0 +1,45 @@
+Ejercicio propuesto: Gestión de Inventario de Productos
+
+Objetivo: Crear una aplicación de consola para manejar un inventario de productos usando 
+PostgreSQL y psycopg. El código debe estar dividido en módulos claros para que sea mantenible.
+Requerimientos funcionales
+
+El sistema debe permitir:
+
+Agregar producto(s) con:
+
+-Nombre
+-Precio (decimal)
+-Cantidad en stock (entero)
+-Actualizar producto(s) por id_producto (precio, cantidad o ambos).
+-Eliminar producto(s) por id_producto.
+-Mostrar todos los productos en la tabla.
+-Buscar producto por nombre (con coincidencias parciales usando LIKE).
+-Salir del menú.
+
+CREATE TABLE producto (
+    id_producto SERIAL PRIMARY KEY,
+    nombre VARCHAR(50) NOT NULL,
+    precio NUMERIC(10, 2) NOT NULL,
+    stock INT NOT NULL
+);
+
+Sugerencia de estructuta del ejercicio: 
+
+Ejercicio_inventario/
+│
+├── database/
+│   ├── __init__.py
+│   └── conexion_db.py          # Funciones para conectar y obtener cursor
+│
+├── utils/
+│   ├── __init__.py
+│   └── obtener_datos.py        # Funciones para pedir datos al usuario
+│
+├── services/
+│   ├── __init__.py
+│   └── transacciones_db.py     # Lógica de INSERT, UPDATE, DELETE, SELECT
+│
+├── main.py                     # Menú principal que usa services
+└── venv/                       # Entorno virtual (ya lo tienes)
+
