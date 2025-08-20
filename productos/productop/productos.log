@@ -1,0 +1,6 @@
+03:07:05 PM: DEBUG [productoDAO.py:17] Producto insertado: Id producto: None, Nombre: Leche,
+        Categoría: Lacteos, Precio: 12.0
+03:10:32 PM: DEBUG [productoDAO.py:25] Se actualizó el producto: Id producto: 1, Nombre: Mantequilla,
+        Categoría: Lacteos, Precio: 13.0
+03:13:49 PM: DEBUG [productoDAO.py:33] Producto eliminado: 1
+03:14:01 PM: DEBUG [productoDAO.py:33] Producto eliminado: 1

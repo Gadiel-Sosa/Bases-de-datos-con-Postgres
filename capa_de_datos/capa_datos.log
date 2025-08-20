@@ -1,0 +1,1 @@
+05:45:55 PM: DEBUG [conexion.py:21] Conexión abierta exitosamente:user=postgres dbname=test_db host=localhost hostaddr=127.0.0.1 sslcertmode=allow

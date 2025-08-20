@@ -3,3 +3,144 @@
 11:33:43 AM: WARNING [logger_base.py:12] Mensaje a nivel Warning
 11:33:43 AM: ERROR [logger_base.py:13] Mensaje a nivel error
 11:33:43 AM: CRITICAL [logger_base.py:14] Mensaje a nivel crítico
+12:21:40 PM: DEBUG [persona.py:39] 
+            Id Persona: 1, Nombre: Juan,
+            Apellido: Pérez, Email: jperez@gmail.com
+12:24:35 PM: DEBUG [persona.py:39] 
+            Id Persona: None, Nombre: Juan,
+            Apellido: Pérez, Email: jperez@gmail.com
+12:25:43 PM: DEBUG [persona.py:39] 
+            Id Persona: None, Nombre: Juan,
+            Apellido: Pérez, Email: jperez@gmail.com
+12:26:00 PM: DEBUG [persona.py:39] 
+            Id Persona: None, Nombre: Juan,
+            Apellido: Pérez, Email: jperez@gmail.com
+12:26:00 PM: DEBUG [persona.py:41] 
+            Id Persona: 1, Nombre: None,
+            Apellido: None, Email: None
+11:55:44 AM: DEBUG [personaDAO.py:30] 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: jcjuarez@mail.com
+11:55:44 AM: DEBUG [personaDAO.py:30] 
+            Id Persona: 4, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: jcjuarez@mail.com
+11:55:44 AM: DEBUG [personaDAO.py:30] 
+            Id Persona: 10, Nombre: Miguel,
+            Apellido: Carmona, Email: mcarmona@gmail.com
+11:55:44 AM: DEBUG [personaDAO.py:30] 
+            Id Persona: 13, Nombre: Laura,
+            Apellido: Pérez, Email: lperez@gmail.com
+11:55:44 AM: DEBUG [personaDAO.py:30] 
+            Id Persona: 14, Nombre: Michael,
+            Apellido: Lee, Email: mlee@gmail.com
+11:55:44 AM: DEBUG [personaDAO.py:30] 
+            Id Persona: 15, Nombre: Maria,
+            Apellido: Esperanza, Email: mesperanza@gmail.com
+11:55:44 AM: DEBUG [personaDAO.py:30] 
+            Id Persona: 16, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+11:55:44 AM: DEBUG [personaDAO.py:30] 
+            Id Persona: 17, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+11:55:44 AM: DEBUG [personaDAO.py:30] 
+            Id Persona: 18, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+12:08:33 PM: DEBUG [personaDAO.py:31] Persona insertada: 
+            Id Persona: None, Nombre: Pedro,
+            Apellido: Contreras, Email: ccontreras@gmail.com
+12:08:33 PM: DEBUG [personaDAO.py:38] Personas insertadas: 1
+12:08:33 PM: DEBUG [personaDAO.py:43] 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: jcjuarez@mail.com
+12:08:33 PM: DEBUG [personaDAO.py:43] 
+            Id Persona: 4, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: jcjuarez@mail.com
+12:08:33 PM: DEBUG [personaDAO.py:43] 
+            Id Persona: 10, Nombre: Miguel,
+            Apellido: Carmona, Email: mcarmona@gmail.com
+12:08:33 PM: DEBUG [personaDAO.py:43] 
+            Id Persona: 13, Nombre: Laura,
+            Apellido: Pérez, Email: lperez@gmail.com
+12:08:33 PM: DEBUG [personaDAO.py:43] 
+            Id Persona: 14, Nombre: Michael,
+            Apellido: Lee, Email: mlee@gmail.com
+12:08:33 PM: DEBUG [personaDAO.py:43] 
+            Id Persona: 15, Nombre: Maria,
+            Apellido: Esperanza, Email: mesperanza@gmail.com
+12:08:33 PM: DEBUG [personaDAO.py:43] 
+            Id Persona: 16, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+12:08:33 PM: DEBUG [personaDAO.py:43] 
+            Id Persona: 17, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+12:08:33 PM: DEBUG [personaDAO.py:43] 
+            Id Persona: 18, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+12:08:33 PM: DEBUG [personaDAO.py:43] 
+            Id Persona: 19, Nombre: Pedro,
+            Apellido: Contreras, Email: ccontreras@gmail.com
+12:14:38 PM: DEBUG [personaDAO.py:39] Persona actualizada: 
+            Id Persona: 19, Nombre: Sarha,
+            Apellido: Lee, Email: slee@gmail.com
+12:14:38 PM: DEBUG [personaDAO.py:46] Personas actualizadas: 1
+12:14:38 PM: DEBUG [personaDAO.py:50] 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: jcjuarez@mail.com
+12:14:38 PM: DEBUG [personaDAO.py:50] 
+            Id Persona: 4, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: jcjuarez@mail.com
+12:14:38 PM: DEBUG [personaDAO.py:50] 
+            Id Persona: 10, Nombre: Miguel,
+            Apellido: Carmona, Email: mcarmona@gmail.com
+12:14:38 PM: DEBUG [personaDAO.py:50] 
+            Id Persona: 13, Nombre: Laura,
+            Apellido: Pérez, Email: lperez@gmail.com
+12:14:38 PM: DEBUG [personaDAO.py:50] 
+            Id Persona: 14, Nombre: Michael,
+            Apellido: Lee, Email: mlee@gmail.com
+12:14:38 PM: DEBUG [personaDAO.py:50] 
+            Id Persona: 15, Nombre: Maria,
+            Apellido: Esperanza, Email: mesperanza@gmail.com
+12:14:38 PM: DEBUG [personaDAO.py:50] 
+            Id Persona: 16, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+12:14:38 PM: DEBUG [personaDAO.py:50] 
+            Id Persona: 17, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+12:14:38 PM: DEBUG [personaDAO.py:50] 
+            Id Persona: 18, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+12:14:38 PM: DEBUG [personaDAO.py:50] 
+            Id Persona: 19, Nombre: Sarha,
+            Apellido: Lee, Email: slee@gmail.com
+12:18:22 PM: DEBUG [personaDAO.py:47] Objeto eliminado: 
+            Id Persona: 19, Nombre: None,
+            Apellido: None, Email: None
+12:18:22 PM: DEBUG [personaDAO.py:53] Personas actualizadas: 1
+12:18:22 PM: DEBUG [personaDAO.py:57] 
+            Id Persona: 3, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: jcjuarez@mail.com
+12:18:22 PM: DEBUG [personaDAO.py:57] 
+            Id Persona: 4, Nombre: Juan Carlos,
+            Apellido: Juarez, Email: jcjuarez@mail.com
+12:18:22 PM: DEBUG [personaDAO.py:57] 
+            Id Persona: 10, Nombre: Miguel,
+            Apellido: Carmona, Email: mcarmona@gmail.com
+12:18:22 PM: DEBUG [personaDAO.py:57] 
+            Id Persona: 13, Nombre: Laura,
+            Apellido: Pérez, Email: lperez@gmail.com
+12:18:22 PM: DEBUG [personaDAO.py:57] 
+            Id Persona: 14, Nombre: Michael,
+            Apellido: Lee, Email: mlee@gmail.com
+12:18:22 PM: DEBUG [personaDAO.py:57] 
+            Id Persona: 15, Nombre: Maria,
+            Apellido: Esperanza, Email: mesperanza@gmail.com
+12:18:22 PM: DEBUG [personaDAO.py:57] 
+            Id Persona: 16, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+12:18:22 PM: DEBUG [personaDAO.py:57] 
+            Id Persona: 17, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
+12:18:22 PM: DEBUG [personaDAO.py:57] 
+            Id Persona: 18, Nombre: Rocio,
+            Apellido: Mijares, Email: rmijares@mail.com
